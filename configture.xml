@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Menu>
+	<MenuChild name="AspectRatio">
+		<menuItem name="Default"/>
+		<menuItem name="16:9"/>
+		<menuItem name="4:3"/>
+		<menuItem name="1:1"/>
+		<menuItem name="16:10"/>
+		<menuItem name="2.21:1"/>
+		<menuItem name="2.35:1"/>
+		<menuItem name="2.39:1"/>
+		<menuItem name="5:4"/>
+	</MenuChild>
+</Menu>
